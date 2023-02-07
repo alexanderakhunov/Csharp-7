@@ -1,0 +1,15 @@
+D:\Учеба Саша\GBsharp\Seminar#7\Homework\Task47\obj\Debug\net6.0\Task47.csproj.AssemblyReference.cache
+D:\Учеба Саша\GBsharp\Seminar#7\Homework\Task47\obj\Debug\net6.0\Task47.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба Саша\GBsharp\Seminar#7\Homework\Task47\obj\Debug\net6.0\Task47.AssemblyInfoInputs.cache
+D:\Учеба Саша\GBsharp\Seminar#7\Homework\Task47\obj\Debug\net6.0\Task47.AssemblyInfo.cs
+D:\Учеба Саша\GBsharp\Seminar#7\Homework\Task47\obj\Debug\net6.0\Task47.csproj.CoreCompileInputs.cache
+D:\Учеба Саша\GBsharp\Seminar#7\Homework\Task47\bin\Debug\net6.0\Task47.exe
+D:\Учеба Саша\GBsharp\Seminar#7\Homework\Task47\bin\Debug\net6.0\Task47.deps.json
+D:\Учеба Саша\GBsharp\Seminar#7\Homework\Task47\bin\Debug\net6.0\Task47.runtimeconfig.json
+D:\Учеба Саша\GBsharp\Seminar#7\Homework\Task47\bin\Debug\net6.0\Task47.dll
+D:\Учеба Саша\GBsharp\Seminar#7\Homework\Task47\bin\Debug\net6.0\Task47.pdb
+D:\Учеба Саша\GBsharp\Seminar#7\Homework\Task47\obj\Debug\net6.0\Task47.dll
+D:\Учеба Саша\GBsharp\Seminar#7\Homework\Task47\obj\Debug\net6.0\refint\Task47.dll
+D:\Учеба Саша\GBsharp\Seminar#7\Homework\Task47\obj\Debug\net6.0\Task47.pdb
+D:\Учеба Саша\GBsharp\Seminar#7\Homework\Task47\obj\Debug\net6.0\Task47.genruntimeconfig.cache
+D:\Учеба Саша\GBsharp\Seminar#7\Homework\Task47\obj\Debug\net6.0\ref\Task47.dll
